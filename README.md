@@ -2,9 +2,13 @@
 
 Research to Rendition is a project that aims to serve an essential purpose. 
 
-The project serves to implement AI Research papers into practical implementations with well-documented code. 
+It strives to implement AI Research Papers into practical implementations with well-documented code. 
 
-Be sure to star the repositry, newer papers will be added frequently.
+![image](https://github.com/user-attachments/assets/5167114a-e418-483d-99e0-5c2a089036a9)
+
+If you find the work useful, please star the repositry.
+
+New Papers will be added frequently.
 
 Maintained with Lightning AI:
 
