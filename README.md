@@ -1,15 +1,28 @@
+# **Applied Papers**  
 
-This project is being refactored and can be considered as W.I.P.
+## **Overview**  
+Applied Papers is a project aimed at re-implementing, extending, and deriving new insights from seminal research papers.
 
+---
 
-## Paper Overview:
+## **Why Applied Papers?**  
 
-Formal Algorithms for Transformers
-The paper explores mathematical foundations behind Transformer models in natural language processing (NLP). It details several self-attention mechanisms, positional encoding, and encoder-decoder architectures, detailing their theoretical aspects and computational efficiency. 
+### **Significance of Re-Implementation**  
+- **Reproducibility**: Ensures transparency and validation of existing research.  
+- **Learning**: Provides hands-on experience with cutting-edge methodologies.  
+- **Advancement**: Opens doors for innovation by revisiting foundational work.  
 
-This paper serves as a good starting point for anyone who wants to understand the theoretical foundations of AI from the ground up.
+### **Project Goals**  
+1. Bridge theoretical concepts with practical applications.    
+2. Contribute to the open-source ecosystem by providing reusable and extensible codebases.
 
-Link: https://arxiv.org/abs/2207.09238
+---  
 
+---
 
+## **How to Use This Repository**  
 
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/applied-papers.git
+   cd applied-papers
